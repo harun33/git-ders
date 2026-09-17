@@ -1,3 +1,3 @@
-<script>
-    alert("Hello git !")
-</script>
+var message ;
+
+alert(" Welcome "+message +"Hello git!")
